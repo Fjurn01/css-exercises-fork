@@ -1,0 +1,17 @@
+.red-color{
+    background-color: rgb(224, 149, 149);
+}
+
+#blue-color{
+    color: rgb(23, 23, 241);
+    font-size: 40px;
+}
+
+.medium-text{
+    font-size: 30px;
+}
+#green-background{
+    font-size: larger;
+    font-weight: 800;
+    background-color: rgb(130, 227, 130);
+}
